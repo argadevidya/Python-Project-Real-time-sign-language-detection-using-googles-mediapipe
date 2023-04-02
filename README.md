@@ -1,6 +1,8 @@
 # Python-Project-Real-time-sign-language-detection-using-googles-mediapipe
 In this project we shall develop a real-time on-device hand tracking solution which predicts a hand skeleton of a human using a single RGB camera. 
 
+![images](https://user-images.githubusercontent.com/122998236/229354857-88d223ec-50a4-48ac-ae7f-907566b96d3e.jpg)![images](https://user-images.githubusercontent.com/122998236/229354881-53b2fc7a-951f-4874-a791-c89166d937a6.jpg)
+
 
 Sign Language is the most common mode of communication amongst the deaf and mute people. Many communities don't even try to learn it even though it is the most popular form of communication for a deaf and mute person It end up creating an isolation for physically disabled people. This problem calls for a system which can comprehend physical hand gestures based on static movements and bridge the communication between the normal and disabled.
 
@@ -15,3 +17,4 @@ With the help of models of Mediapipe library, Gestures of a hand can be determin
 So here are some signs that we have developed with our algorithm Such as Hello,Goodbye,yes,no,agree,disagree,not sure,directions-left,right,piece 
 Here is a project Output you can see in the video
 
+![images](https://user-images.githubusercontent.com/122998236/229354871-e5f1916c-eed7-4241-b67d-62da157ac0da.jpg)
