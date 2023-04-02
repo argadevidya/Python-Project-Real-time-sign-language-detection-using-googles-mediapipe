@@ -16,5 +16,3 @@ Here we are making use of Mediapipe library provided by google which is open-sou
 With the help of models of Mediapipe library, Gestures of a hand can be determined using different technologies. 
 So here are some signs that we have developed with our algorithm Such as Hello,Goodbye,yes,no,agree,disagree,not sure,directions-left,right,piece 
 Here is a project Output you can see in the video
-
-![images](https://user-images.githubusercontent.com/122998236/229354871-e5f1916c-eed7-4241-b67d-62da157ac0da.jpg)
