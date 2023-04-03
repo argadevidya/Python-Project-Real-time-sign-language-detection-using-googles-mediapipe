@@ -14,5 +14,8 @@ This project focuses on developing an algorithm for recognition of hand gestures
 It recognizes the pattern and displays the pattern in the form of the text. 
 Here we are making use of Mediapipe library provided by google which is open-source and it is a well-trained model to achieve high performance. 
 With the help of models of Mediapipe library, Gestures of a hand can be determined using different technologies. 
-So here are some signs that we have developed with our algorithm Such as Hello,Goodbye,yes,no,agree,disagree,not sure,directions-left,right,piece 
+So here are some signs that we have developed with our algorithm Such as Hello,Goodbye,yes,no,agree,disagree,not sure,directions-left,right,piece
+ 
 Here is a project Output you can see in the video
+ 
+Project Execution steps
